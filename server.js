@@ -19,4 +19,4 @@ app.get('/data', (req, res) => {
     res.json(users)
 })
 
-app.listen(5000, () => {console.log(`Server on port 5000`)})
+app.listen(3333, () => {console.log(`Server on port 5000`)})
